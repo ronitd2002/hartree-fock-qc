@@ -5,3 +5,5 @@ This repository is built by **Ronit Dutta** and serves as a primer for Hartree F
 This is professor David Sherrill's video on Hartree-Fock theory and might serve as a great primer for those who are unaware of the requisite theory.
 
 [![Introduction to Hartree-Fock Molecular Orbital Theory Part 1](https://img.youtube.com/vi/qcYxyP_SDLU/0.jpg)](https://www.youtube.com/watch?v=qcYxyP_SDLU&list=PLFYoDkTAQWKBarFNED2smakjXwK5hkUrP&index=13)
+
+A good set of *Quantum Chemistry* resources can be found at his very own open access [notes](http://vergil.chemistry.gatech.edu/notes/). It is important to understand chemical structure and HF, DFT methods to accurately work on quantum chemical simulations using quantum circuits.
